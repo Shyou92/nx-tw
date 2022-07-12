@@ -14,7 +14,7 @@
         "tsConfig": "apps/twitter/tsconfig.app.json",
         "inlineStyleLanguage": "scss",
         "assets": ["apps/twitter/src/favicon.ico", "apps/twitter/src/assets"],
-        "styles": ["apps/twitter/src/styles.scss"],
+        "styles": ["apps/twitter/src/styles.css"],
         "scripts": []
       },
       "configurations": {
